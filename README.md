@@ -1,62 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# JavaScript test practice
 
-> Description the project.
+> Description of the project.
+
+In this project, i created test cases for funtions performing the folloeing operations:
+  - A function that returns length of strings.
+  - A function that reverses strings.
+  - A simple calculating function.
+  - A function that changes a string to camelCase.
 
 
 ## Built With
 
 - Major languages
+  JavaScript
+
 - Frameworks
+  Jest
+
 - Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+  Use of ES6 syntax.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+Clone the Repo and use the teminal to run the tests using: "npm run test".
 
 ### Prerequisites
-
-### Setup
-
+  A code editor and node.
 ### Install
-
+  - Install a code editor.
+  - Install node.
 ### Usage
+  This App can be used to verify tests for some function operations listed above.
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Eneh Charles Chukwunweike**
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@charlyeneh](https://github.com/charlyeneh)
+- Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/charlyeneh/JavaScript-Test-Practice/issues/1).
 
 ## Show your support
 
@@ -70,4 +60,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+
+
+
