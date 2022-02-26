@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlyeneh/JavaScript-Test-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlyeneh/JavaScript-Test-Practice/issues"
+  },
+  "homepage": "https://github.com/charlyeneh/JavaScript-Test-Practice#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
+}
